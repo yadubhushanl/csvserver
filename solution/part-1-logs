@@ -1,0 +1,4 @@
+2022/09/15 14:04:50 error while reading the file "/csvserver/inputdata": open /csvserver/inputdata: no such file or directory
+2022/09/15 14:07:05 listening on ****
+2022/09/15 14:07:45 wrote 664 bytes for /
+2022/09/15 14:09:16 wrote 181 bytes for /raw
